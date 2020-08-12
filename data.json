@@ -1,0 +1,85 @@
+{
+    "personal": {
+        "firstname": "Ming",
+        "lastname": "Liu",
+        "title": [
+            "Software Engineer",
+            "Mobile App Developer",
+            "Frontend Developer",
+            "Backend Developer",
+            "Full Stack Engineer"
+        ]
+    },
+    "summary": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ],
+    "contact": {
+        "address": [
+            "328 Boiceville Rd., Brooktondate, NY", "Ithaca, NY", "New York, NY"
+        ],
+        "phone": ["347-882-0395"],
+        "email": ["mingliudev@gmail.com"],
+        "social": [
+            {
+                "media": "Linkedin",
+                "link": "https://www.linkedin.com/in/mingliu68/"
+            }, {
+                "media": "Twitter",
+                "link": "https://twitter.com/intoxic8_sky"
+            }
+        ]
+    },
+    "skills": [""],
+    "education": [
+        {
+            "institution": "Hofstra University",
+            "startYear": "2007",
+            "endYear": "2008",
+            "city": "Hempstead",
+            "state": "NY",
+            "degree": "BBA Accounting",
+            "stillInSchool": false
+        }, {
+            "institution": "SUNY Stony Brook University",
+            "startYear": "1996",
+            "endYear": "1997",
+            "city": "Stony Brook",
+            "state": "NY",
+            "degree": null,
+            "stillInSchool": false
+
+        }
+    ],
+    "projects": [
+        {
+            "name": "Resume Bloc",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "tags": ["JavaScript", "React", "Redux", "React-Native"]
+        }, {
+            "name": "Bark & Meowski",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "tags": ["JavaScript", "React", "Redux", "React-Native"]
+        }
+    ],
+    "experience": [
+        {
+            "position": "App Developer",
+            "company": "Intoxic8 Studio",
+            "startMonth": "December",
+            "startYear": "2011",
+            "endMonth": "August",
+            "endYear": "2020",
+            "stillWorkThere": "yes",
+            "description": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."]
+        }, {
+            "position": "Full Stack Developer",
+            "company": "Brookside Media & Co.",
+            "startMonth": "December",
+            "startYear": "2005",
+            "endMonth": "August",
+            "endYear": "2020",
+            "stillWorkThere": "yes",
+            "description": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."]
+        }
+    ]
+}
